@@ -1,1 +1,2 @@
-let teste = "git"
+let teste = "git";
+let outro = "g";
